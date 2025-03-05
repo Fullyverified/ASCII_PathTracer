@@ -1,3 +1,5 @@
+Edit: This has been replaced by my C++ Path Tracer
+
 I'm trying to make a Pathtracer in Java. Nothing that hasn't been done before :)
 Global Illuminiation and Bounding Volume Heirarchys (BVH) are now implemented!
 
